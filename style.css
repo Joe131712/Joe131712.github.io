@@ -4,6 +4,7 @@
     padding: 0;
     
 }
+
 html {
     font-size: 16px;
 }
@@ -106,6 +107,13 @@ a:hover {
     color: #FFF;
 }
 
+.header-alhoceima {
+    display: block;
+    background: linear-gradient(180deg, rgba(0, 0, 0, .92), rgba(54, 54, 54, .5)39.24%, rgba(28, 28, 28, .4)),
+    url("./img/alhoceima.jpg") center center / cover no-repeat;
+    color: #FFF;
+}
+
 .header-destination {
     display: block;
     background: linear-gradient(180deg, rgba(0, 0, 0, .92), rgba(54, 54, 54, .5)39.24%, rgba(28, 28, 28, .4)),
@@ -116,7 +124,7 @@ a:hover {
 .header-fortdefrance {
     display: block;
     background: linear-gradient(180deg, rgba(0, 0, 0, .92), rgba(54, 54, 54, .5)39.24%, rgba(28, 28, 28, .4)),
-    url("./img/fortdefrance3.webp") center center / cover no-repeat;
+    url("./img/fortdefrance3.jpg") center center / cover no-repeat;
     color: #FFF;
 }
 
@@ -130,21 +138,21 @@ a:hover {
 .header-tanger {
     display: block;
     background: linear-gradient(180deg, rgba(0, 0, 0, .92), rgba(54, 54, 54, .5)39.24%, rgba(28, 28, 28, .4)),
-    url("./img/tanger7.webp") center center / cover no-repeat;
+    url("./img/tanger7.jpg") center center / cover no-repeat;
     color: #FFF;
 }
 
 .header-flicenflac {
     display: block;
     background: linear-gradient(180deg, rgba(0, 0, 0, .92), rgba(54, 54, 54, .5)39.24%, rgba(28, 28, 28, .4)),
-    url("./img/flicenflac2.webp") center center / cover no-repeat;
+    url("./img/flicenflac2.jpg") center center / cover no-repeat;
     color: #FFF;
 }
 
 .header-dakar {
     display: block;
     background: linear-gradient(180deg, rgba(0, 0, 0, .92), rgba(54, 54, 54, .5)39.24%, rgba(28, 28, 28, .4)),
-    url("./img/dakar1.webp") center center / cover no-repeat;
+    url("./img/dakar1.jpg") center center / cover no-repeat;
     color: #FFF;
 }
 
@@ -160,7 +168,7 @@ a:hover {
 .header2 {
     display: block;
     height: 50px;
-    background: coral;
+    background: goldenrod;
     color: #FFF;
 }
 
@@ -1043,7 +1051,7 @@ input {
     .header2 {
         display: block;
         height: 100px;
-        background: coral;
+        background: goldenrod;
         color: #FFF;
     }
     .reservation {
