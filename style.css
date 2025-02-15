@@ -138,7 +138,7 @@ a:hover {
 .header-tanger {
     display: block;
     background: linear-gradient(180deg, rgba(0, 0, 0, .92), rgba(54, 54, 54, .5)39.24%, rgba(28, 28, 28, .4)),
-    url("./img/tanger7.jpg") center center / cover no-repeat;
+    url("./img/tanger7.webp") center center / cover no-repeat;
     color: #FFF;
 }
 
