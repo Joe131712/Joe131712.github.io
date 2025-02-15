@@ -152,7 +152,7 @@ a:hover {
 .header-dakar {
     display: block;
     background: linear-gradient(180deg, rgba(0, 0, 0, .92), rgba(54, 54, 54, .5)39.24%, rgba(28, 28, 28, .4)),
-    url("./img/dakar1.jpg") center center / cover no-repeat;
+    url("./img/dakar1.webp") center center / cover no-repeat;
     color: #FFF;
 }
 
